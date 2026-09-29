@@ -833,7 +833,7 @@ This project demonstrates practical experience with:
 
 # 👤 Author
 
-**Fadi**
+**Fowad Ajmal**
 
 ---
 
